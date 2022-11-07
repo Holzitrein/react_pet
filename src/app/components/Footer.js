@@ -10,7 +10,7 @@ export default class Footer extends Component {
                             Copyrights &copy; 2014 All Rights Reserved by Canvas Inc.
                         </div>
                         <div className="col_half col_last tright">
-                            <i className="icon-headphones"/> +7 (812) 654-63-69
+                            <i className="icon-headphones"/> +7 (999) 999-99-99
                         </div>
                     </div>
                 </div>
